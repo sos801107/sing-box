@@ -18,7 +18,7 @@ NODE_TAG=("xtls-reality" "hysteria2" "tuic" "ShadowTLS" "shadowsocks" "trojan" "
 CONSECUTIVE_PORTS=${#PROTOCOL_LIST[@]}
 CDN_DOMAIN=("skk.moe" "ip.sb" "time.is" "cfip.xxxxxxxx.tk" "bestcf.top" "cdn.2020111.xyz" "xn--b6gac.eu.org")
 SUBSCRIBE_TEMPLATE="https://raw.githubusercontent.com/fscarmen/client_template/main"
-DEFAULT_NEWEST_VERSION='1.12.0-beta.15'
+DEFAULT_NEWEST_VERSION='1.12.7'
 
 export DEBIAN_FRONTEND=noninteractive
 
